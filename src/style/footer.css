@@ -1,0 +1,14 @@
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    color:#fff;
+}
+#f-btn{
+    margin-left: 5px;
+    height: 90%;
+}
+#center-bl{
+    display: inline-table;
+}
+
